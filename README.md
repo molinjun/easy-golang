@@ -10,7 +10,7 @@ GO 语言学习笔记。
 - [ ] [Golang 简介](./basics/introduction.md)
 - [x] [环境搭建](./basics/installation.md)
 - [ ] [第一个 Go 程序](./basics/first_go_program.md)
-- [ ] [基础语法]()
+- [ ] [基础语法](./basics/basic_syntax.md)
 - [ ] 基本数据类型
 - [ ] [运算符](./basics/operator.md)
 - [ ] [流程控制](./basics/flow_control.md)
